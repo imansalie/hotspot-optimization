@@ -1,0 +1,2 @@
+Total Hotspots: 1000
+Total Interfering Pairs: 3862
